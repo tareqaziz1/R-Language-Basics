@@ -1,5 +1,7 @@
 # Assigning Variables in R
 
+# Variable is a named storage location used to hold data values. 
+
 x <- 10
 y = 20
 
