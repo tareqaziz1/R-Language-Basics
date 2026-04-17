@@ -18,9 +18,19 @@ for(i in 1:5){
   print(i)
 }
 
+#while loop
 while loop
 i <- 1
 while(i <= 5){
   print(i)
   i <- i + 1
+}
+
+# repeat loop
+
+repeat {
+  # Code to execute
+  if (condition) {
+    break
+  }
 }
