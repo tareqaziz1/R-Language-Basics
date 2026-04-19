@@ -117,18 +117,7 @@ sqrt(16)
 
 # Output: 4
 
-length(c(1,2,3,4))
+length(c(1,2,3,4))   # Output: 4
 
-# Output: 4
+sum(1,2,3)   # Output: 6
 
-sum(1,2,3)
-
-# Output: 6
-
-# Quick Tip:
-
-# - Functions make your code reusable
-
-# - Always use meaningful names
-
-# - Keep functions simple and clear
