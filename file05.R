@@ -1,6 +1,7 @@
 # Data Frames in R
 
 # A data frame is a table (like Excel).It stores data in rows and columns. Each column can have different data types
+# Data frames are used in almost all data analysis tasks.
 
 # Creating a Data Frame
 
@@ -150,8 +151,3 @@ str(students)
 
 # $ marks: num  90 95 83
 
-# Quick Tip:
-
-# - Data frames are used in almost all data analysis tasks
-
-# - Think of them like Excel tables in R
